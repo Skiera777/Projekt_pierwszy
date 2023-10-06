@@ -3,3 +3,6 @@ def powitanie():
 
 def pozegnanie():
     print("Do widzenia")
+
+if __name__ == '__main__':
+    print("jestem z pakietu")
